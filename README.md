@@ -34,7 +34,7 @@ The smart contract has been deployed on the Ethereum testnet. You can find the c
 
 1. Clone this repository:
  ```bash
-   git clone https://github.com/your-username/your-repo-name.git
+   git clone https://github.com/iketansaini/ETH-intermediate-4.git
 ```
 2. Install dependencies:
 
